@@ -3,7 +3,7 @@ layout: default
 title: About
 permalink: /about/
 ---
-![1289687.jpg](/assets/1289687.jpg)
+![image tooltip](/assets/1289687.jpg)
 ![1289687](/assets/1289687.jpg)
 
 
