@@ -38,11 +38,11 @@ plugins:
   - jekyll-feed
 
 
-defaults:
-  - scope:
-      path: "assets_mine/img"
-    values:
-      image: true
+#defaults:
+#  - scope:
+#      path: "assets_mine/img"
+#    values:
+#      image: true
 
 # Exclude from processing.
 # The following items will not be processed, by default.
