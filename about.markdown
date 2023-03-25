@@ -3,6 +3,9 @@ layout: default
 title: About
 permalink: /about/
 ---
+![1289687.jpg](/assets/1289687.jpg)
+![1289687](/assets/1289687.jpg)
+
 
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
