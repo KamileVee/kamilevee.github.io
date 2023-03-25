@@ -1,0 +1,11 @@
+---
+layout: default
+title: Periodic
+permalink: /periodic
+---
+
+{% for file in site.static_files %}
+  {% if file.image %}
+    <img scr='{{file.path}}' alt='{file.name}'>
+    {% endif %}
+  {% endfor %}
