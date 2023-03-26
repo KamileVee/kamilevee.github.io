@@ -34,9 +34,17 @@ github_username:  jekyll
 # Build settings
 #theme: minima
 theme: jekyll-theme-minimal
+
+###FOR MINIMAL
+remote_theme: pages-themes/minimal@v0.2.0
+####
+
 plugins:
   - jekyll-feed
 
+#FOR minimal
+  - jekyll-remote-theme
+#####3
 
 defaults:
   - scope:
