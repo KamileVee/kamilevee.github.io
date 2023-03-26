@@ -8,7 +8,7 @@ permalink: /about/
 
 < iframe src="codes/interactive_plot.html" width="100%" height="600"> </iframe>
 
-![alt text](/assets/p.jpg)
+![alt text](/assetsmine/img/vehicle.jpg)
 
 
 
