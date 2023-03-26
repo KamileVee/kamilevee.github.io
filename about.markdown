@@ -5,8 +5,8 @@ permalink: /about/
 ---
 
 
-<h1 style="color:red;">This is a heading</h1>
-<h1 style="font-family:garamond; font-weight: bold; font-size:500%;">This is a heading</h1>
+<h1 style="color:grey; font-family:Helvetica; font-weight: italic; font-size:12px">Monday 27, 2023</h1>
+<h1 style="font-family:garamond; font-size:500%;">This is a heading</h1>
 <h1 style="font-size:300%;">This is a heading</h1>
 
 ![alt text](/assetsmine/img/vehicle.jpg)
