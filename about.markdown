@@ -6,7 +6,7 @@ permalink: /about/
 
 
 <h1 style="color:red;">This is a heading</h1>
-<h1 style="font-family:verdana;">This is a heading</h1>
+<h1 style="font-family:garamond; font-weight: bold; font-size:500%;">This is a heading</h1>
 <h1 style="font-size:300%;">This is a heading</h1>
 
 ![alt text](/assetsmine/img/vehicle.jpg)
